@@ -59,3 +59,4 @@ Bu proje, kullanıcıların mobil uygulama üzerinden çeşitli etkinlikleri gö
 
 Bu proje, kullanıcıların etkinlikleri kolayca takip etmelerini ve aramalarını sağlayacak bir mobil uygulama oluşturma amacını taşımaktadır. Projenin geliştirilmesi sırasında belirtilen özelliklere ve değerlendirme koşullarına uygun olarak ilerlemeniz beklenmektedir. Başarılar dilerim!
 # XplorePass
+# XPlorePass

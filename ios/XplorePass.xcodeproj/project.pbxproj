@@ -12,8 +12,12 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		7316B634F50A496ABD76FA67 /* NanumMyeongjo-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 583109208C9544AE9021CD20 /* NanumMyeongjo-Bold.ttf */; };
 		7699B88040F8A987B510C191 /* libPods-XplorePass-XplorePassTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-XplorePass-XplorePassTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		9FC1EA57F896448294BD1408 /* NanumMyeongjo-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5103580D1E9642F9B3782DF2 /* NanumMyeongjo-Regular.ttf */; };
+		E579A3B64B5E449B8FEDB827 /* PoiretOne-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9EAE32E4FC2F4E06A87252F4 /* PoiretOne-Regular.ttf */; };
+		E5F6DD5C499F4168B7E23CD8 /* NanumMyeongjo-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7625015F5D8F4FDDA29790AC /* NanumMyeongjo-ExtraBold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,11 +42,15 @@
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = XplorePass/main.m; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-XplorePass-XplorePassTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-XplorePass-XplorePassTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B4392A12AC88292D35C810B /* Pods-XplorePass.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XplorePass.debug.xcconfig"; path = "Target Support Files/Pods-XplorePass/Pods-XplorePass.debug.xcconfig"; sourceTree = "<group>"; };
+		5103580D1E9642F9B3782DF2 /* NanumMyeongjo-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "NanumMyeongjo-Regular.ttf"; path = "../src/assets/fonts/NanumMyeongjo-Regular.ttf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-XplorePass.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XplorePass.release.xcconfig"; path = "Target Support Files/Pods-XplorePass/Pods-XplorePass.release.xcconfig"; sourceTree = "<group>"; };
+		583109208C9544AE9021CD20 /* NanumMyeongjo-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "NanumMyeongjo-Bold.ttf"; path = "../src/assets/fonts/NanumMyeongjo-Bold.ttf"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-XplorePass-XplorePassTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XplorePass-XplorePassTests.debug.xcconfig"; path = "Target Support Files/Pods-XplorePass-XplorePassTests/Pods-XplorePass-XplorePassTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-XplorePass.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-XplorePass.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7625015F5D8F4FDDA29790AC /* NanumMyeongjo-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "NanumMyeongjo-ExtraBold.ttf"; path = "../src/assets/fonts/NanumMyeongjo-ExtraBold.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = XplorePass/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-XplorePass-XplorePassTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XplorePass-XplorePassTests.release.xcconfig"; path = "Target Support Files/Pods-XplorePass-XplorePassTests/Pods-XplorePass-XplorePassTests.release.xcconfig"; sourceTree = "<group>"; };
+		9EAE32E4FC2F4E06A87252F4 /* PoiretOne-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "PoiretOne-Regular.ttf"; path = "../src/assets/fonts/PoiretOne-Regular.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -96,6 +104,18 @@
 			name = XplorePass;
 			sourceTree = "<group>";
 		};
+		16755B5DF6FE44B98C77B54A /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				583109208C9544AE9021CD20 /* NanumMyeongjo-Bold.ttf */,
+				7625015F5D8F4FDDA29790AC /* NanumMyeongjo-ExtraBold.ttf */,
+				5103580D1E9642F9B3782DF2 /* NanumMyeongjo-Regular.ttf */,
+				9EAE32E4FC2F4E06A87252F4 /* PoiretOne-Regular.ttf */,
+			);
+			name = Resources;
+			path = "";
+			sourceTree = "<group>";
+		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -122,6 +142,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				16755B5DF6FE44B98C77B54A /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -243,6 +264,10 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				7316B634F50A496ABD76FA67 /* NanumMyeongjo-Bold.ttf in Resources */,
+				E5F6DD5C499F4168B7E23CD8 /* NanumMyeongjo-ExtraBold.ttf in Resources */,
+				9FC1EA57F896448294BD1408 /* NanumMyeongjo-Regular.ttf in Resources */,
+				E579A3B64B5E449B8FEDB827 /* PoiretOne-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
