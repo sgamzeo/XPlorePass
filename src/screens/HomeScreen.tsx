@@ -7,6 +7,7 @@ const HomeScreen = () => {
       <Text>HomeScreen</Text>
       <Text>logo</Text>
       <Text>search</Text>
+      <Text>kategoriler</Text>
       <Text>konum basınca yakındaki etkinlikler çıkıyo</Text>
       <Text>kategoriler</Text>
       <Text> hesabım sekmesi</Text>

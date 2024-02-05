@@ -13,7 +13,7 @@ const FollowArtistCard = ({ name, followerCount, onPressFollow }:any) => {
         </View>
 
         <TouchableOpacity onPress={onPressFollow} style={styles.followButton}>
-          <Text style={styles.followButtonText}>Takip Et</Text>
+          <Text style={styles.followButtonText}>Abone ol</Text>
         </TouchableOpacity>
       </View>
     </View>
