@@ -1,12 +1,12 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-const QueryResultScreen = () => {
+const EventPreview = () => {
   return (
     <View>
-      <Text>X sonuç bulundu</Text>
+      <Text>EventPreview</Text>
     </View>
   )
 }
 
-export default QueryResultScreen
+export default EventPreview
